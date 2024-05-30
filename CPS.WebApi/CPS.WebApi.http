@@ -1,0 +1,6 @@
+@CPS.WebApi_HostAddress = http://localhost:5186
+
+GET {{CPS.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
